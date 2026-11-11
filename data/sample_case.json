@@ -1,0 +1,15 @@
+{
+  "question": "Should Meridian Consumer Electronics enter India's Tier-2/3 city market in FY27?",
+  "options": ["Enter at full scale", "Pilot in three cities", "Do not enter"],
+  "company": "Meridian Consumer Electronics (fictional)",
+  "sector": "Consumer electronics",
+  "budget_lakh": 500,
+  "constraints": "Preserve core-market service levels. No new debt. Pilot in three cities before national scale-up.",
+  "horizon": "5 years",
+  "risk_appetite": "Medium",
+  "rounds": 2,
+  "agents": ["CEO", "CFO", "CMO", "Risk Officer"],
+  "researcher": true,
+  "finance": {"investment": 300, "revenues": [300, 500, 750, 950, 1100], "margin": 0.32, "fixed_cost": 90, "discount": 0.12},
+  "note": "All company details, revenue forecasts and market views are fictional teaching assumptions. No external market research is included."
+}
